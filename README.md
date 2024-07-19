@@ -1,4 +1,6 @@
-<img src="/public/screenshot.png" alt="screenshot" align="center"/>
+<div align="center">
+<img src="/public/screenshot.png" alt="screenshot"/>
+</div>
 
 # Hilink - Modern UI/ UX Landing page
 
