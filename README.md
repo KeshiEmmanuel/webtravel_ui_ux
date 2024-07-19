@@ -1,4 +1,4 @@
-<img src="/public/screenshot.png" alt="screenshot"/>
+<img src="/public/screenshot.png" alt="screenshot" align="center"/>
 
 # Hilink - Modern UI/ UX Landing page
 
